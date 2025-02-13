@@ -21,7 +21,7 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 ---
 ### 🔧 Daily Use
 <p align="center">
-Kenntnise
+HTML, CSS, JS, PY, PHP
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
