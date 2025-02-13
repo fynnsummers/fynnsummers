@@ -1,8 +1,5 @@
- # 👋 Hallo und Willkommen!
+ # 🙋🏻‍♂️ Fynn Summers!
 
-<p align="center">
-  <img src="https://i.postimg.cc/d35fwqr6/RGB-line.gif" alt="Regenbogenlinie"/>
-</p>
 
 ## 🌟 Über mich
 
