@@ -6,6 +6,7 @@
 Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel, meine Programmierfähigkeiten ständig zu verbessern. Ich liebe es, Projekte zu entwickeln, Probleme zu lösen und mit anderen zusammenzuarbeiten, um großartige Software zu erschaffen!
 
  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fynnsummers&layout=compact&theme=github_dark_dimmed)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fynnsummers&theme=github_dark_dimmed&show_icons=true)
 ---
 
 ## 🔧 Meine täglichen Technologien
