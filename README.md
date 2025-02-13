@@ -16,9 +16,9 @@ Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel,
   <img src="https://skillicons.dev/icons?i=html,css,js,python,php" alt="Meine Skills"/>
 </p>
 
-<p align="center">
+
  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fynnsummers&layout=compact&theme=github_dark_dimmed)
-</p>
+
 ---
 
 ## 🧠 Aktuell lerne ich
