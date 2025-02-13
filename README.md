@@ -10,19 +10,8 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 </p>  
 
 ---
-
-### 🚀 About Me
-
-- 🔭 Currently working on exciting projects involving web and software development.
-- 🌱 Learning more about backend development and system architecture.
-- 💬 Ask me about anything tech-related, and I'd be happy to help!
-- 📫 How to reach me: [summersfynn@gmail.com]
-
----
 ### 🔧 Daily Use
-<p align="center" style="color: #000000">
-HTML, CSS, JS, PY, PHP
-</p>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -43,4 +32,12 @@ HTML, CSS, JS, PY, PHP
 
 ---
 
+### 🚀 About Me
+
+- 🔭 Currently working on exciting projects involving web and software development.
+- 🌱 Learning more about backend development and system architecture.
+- 💬 Ask me about anything tech-related, and I'd be happy to help!
+- 📫 How to reach me: [summersfynn@gmail.com]
+
+---
 
