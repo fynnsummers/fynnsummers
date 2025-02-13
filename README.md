@@ -11,6 +11,7 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 
 ---
 ### 🔧 Daily Use
+ <img src="https://www.vecteezy.com/vector-art/4562748-wide-christmas-border-garland-fromf-fir-branches-balls-pine-cones-and-other-ornaments-isolated-on-transparent-background-vector-illustration" alt="Java" width="50" height="50"/>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
