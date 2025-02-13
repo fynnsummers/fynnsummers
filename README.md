@@ -1,4 +1,4 @@
- # ◆ 🙋🏻‍♂️ Fynn Summers! ◆
+ # ◆  Fynn Summers ◆
 
 
 ## 🌟 Über mich
@@ -30,7 +30,6 @@ Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel,
 
 - 🔝 Ich arbeite derzeit an spannenden Projekten in den Bereichen Web- und Softwareentwicklung.  
 - 🌱 Mein Fokus liegt auf Backend-Entwicklung und Systemarchitektur.  
-- 💬 Du kannst mich alles rund um Technik und Programmierung fragen!  
 
 ---
 
