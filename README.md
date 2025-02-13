@@ -11,7 +11,7 @@ Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel,
 ## 🔧 Meine täglichen Technologien
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" alt="Meine Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java" alt="Meine Skills"/>
 </p>
 
 ---
