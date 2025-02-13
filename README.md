@@ -19,12 +19,9 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 - 📫 How to reach me: [summersfynn@gmail.com]
 
 ---
-
-### 🔧 Daily Use
 <p align="center">
-  <img src="https://i.postimg.cc/d35fwqr6/RGB-line.gif" alt="rainbowline"/>
-</p>  
-
+### 🔧 Daily Use
+</p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -36,9 +33,6 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 ---
 
 ### 🧠 Learning
-<p align="center">
-  <img src="https://i.postimg.cc/d35fwqr6/RGB-line.gif" alt="rainbowline"/>
-</p>  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
