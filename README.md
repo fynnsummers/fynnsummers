@@ -36,7 +36,7 @@ Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel,
 
 ## 📩 Kontakt
 
-<p align="center" style="margin: 50px;">
+<p align="center">
   <a href="mailto:summersfynn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"/>
   </a>
