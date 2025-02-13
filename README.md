@@ -13,11 +13,14 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 - 🔭 Currently working on exciting projects involving web and software development.
 - 🌱 Learning more about backend development and system architecture.
 - 💬 Ask me about anything tech-related, and I'd be happy to help!
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 📫 How to reach me: [summersfynn@gmail.com]
 
 ---
 
 ### 🔧 Technologies & Tools
+<p align="center">
+  <img src="https://i.postimg.cc/d35fwqr6/RGB-line.gif" alt="rainbowline"/>
+</p>  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -31,10 +34,4 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 
 ---
 
-### 🎨 Aesthetic Touch
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Animated line gif"/>
-</p>
-
-Let's connect and build something great together! 😃
