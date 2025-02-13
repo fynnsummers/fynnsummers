@@ -1,4 +1,4 @@
- # 🙋🏻‍♂️ Fynn Summers!
+ # ◆ 🙋🏻‍♂️ Fynn Summers! ◆
 
 
 ## 🌟 Über mich
