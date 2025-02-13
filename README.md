@@ -20,7 +20,7 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
 
 ---
 ### 🔧 Daily Use
-<p align="center">
+<p align="center" style="color: #000000">
 HTML, CSS, JS, PY, PHP
 </p>
 <p align="center">
