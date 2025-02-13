@@ -39,11 +39,12 @@ I'm **Fynn Summers**, a passionate developer always looking to learn new things 
   <img src="https://i.postimg.cc/d35fwqr6/RGB-line.gif" alt="rainbowline"/>
 </p>  
 
-<p algin="center">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
+
 ---
 
 
