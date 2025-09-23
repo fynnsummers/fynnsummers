@@ -40,9 +40,6 @@ Hallo! Ich bin **Fynn Summers**, ein leidenschaftlicher Entwickler mit dem Ziel,
   <a href="https://wa.me/01529697372" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://discord.com/users/795397011524419615" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   <a href="https://instagram.com/fynn.summers" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
