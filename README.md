@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Fynn%20Summers&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">Cyber Backend Developer • Software Builder</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Cyber+Code+Creator;Always+Learning+New+Technologies"/>
