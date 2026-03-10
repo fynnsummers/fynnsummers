@@ -7,7 +7,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;Cyber+Code+Creator;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer;Software+Engineer;FyraForms;Brixel;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
