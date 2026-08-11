@@ -115,25 +115,6 @@ Ich liebe es **Software zu bauen, Probleme zu lösen und neue Technologien zu le
 
 </p>
 
----
-
-# <img src="https://img.icons8.com/fluency/28/share.png"/> Connect
-
-<p align="center">
-
-<a href="mailto:summersfynn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/fynn.summers">
-<img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/491529697372">
-<img src="https://img.shields.io/badge/WhatsApp-7F00FF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
